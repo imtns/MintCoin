@@ -13,7 +13,9 @@
     "@truffle/hdwallet-provider": "^1.0.34",
     "bip39": "^3.0.2",
     "ethers": "^4.0.47",
-    "inquirer": "^7.1.0",
+    "ganache-cli": "^6.12.2",
+    "ganache-core": "2.13.2",
+    "inquirer": "^8.1.4",
     "truffle": "5.0.22"
   },
   "devDependencies": {
